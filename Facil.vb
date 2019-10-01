@@ -28,7 +28,7 @@
     End Sub
 
     Public Sub Valida_Ganar(ByVal Ganar As Integer)
-        If Ganar = 8 Then
+        If Ganar = 6 Then
             Timer1.Enabled = False
             MsgBox(“Felicidades, juego terminado”)
         End If
@@ -72,10 +72,6 @@
 
     Private Sub Img_Pareja5_2_Click(sender As Object, e As EventArgs) Handles Img_Pareja5_2.Click
         Pareja(Img_Pareja5_2, Img_Img5, Img_Pareja5_1)
-    End Sub
-
-    Private Sub Facil_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
     End Sub
 
     Private Sub Img_Pareja6_1_Click(sender As Object, e As EventArgs) Handles Img_Pareja6_1.Click
