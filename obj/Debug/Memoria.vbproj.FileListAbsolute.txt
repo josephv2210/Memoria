@@ -1,0 +1,45 @@
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.vbprojAssemblyReference.cache
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.Dificil.resources
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.Facil.resources
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.Medio.resources
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.Resources.resources
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.vbproj.GenerateResource.cache
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.vbproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Memoria\bin\Debug\Memoria.exe.config
+D:\VisualStudioProjects\Memoria\bin\Debug\Memoria.exe
+D:\VisualStudioProjects\Memoria\bin\Debug\Memoria.pdb
+D:\VisualStudioProjects\Memoria\bin\Debug\Memoria.xml
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.exe
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.xml
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.pdb
+D:\VisualStudioProjects\Memoria\obj\Debug\Memoria.MenuPrincipal.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria\bin\Debug\Memoria.exe.config
+C:\Users\josep\OneDrive\Escritorio\Memoria\bin\Debug\Memoria.exe
+C:\Users\josep\OneDrive\Escritorio\Memoria\bin\Debug\Memoria.pdb
+C:\Users\josep\OneDrive\Escritorio\Memoria\bin\Debug\Memoria.xml
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.vbprojAssemblyReference.cache
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.Dificil.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.Facil.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.MenuPrincipal.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.Medio.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.Resources.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.vbproj.GenerateResource.cache
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.vbproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.exe
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.xml
+C:\Users\josep\OneDrive\Escritorio\Memoria\obj\Debug\Memoria.pdb
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\bin\Debug\Memoria.exe.config
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\bin\Debug\Memoria.exe
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\bin\Debug\Memoria.pdb
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\bin\Debug\Memoria.xml
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.vbprojAssemblyReference.cache
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.Dificil.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.Facil.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.MenuPrincipal.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.Medio.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.Resources.resources
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.vbproj.GenerateResource.cache
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.vbproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.exe
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.xml
+C:\Users\josep\OneDrive\Escritorio\Memoria - copia (2)\obj\Debug\Memoria.pdb
